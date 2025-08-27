@@ -2,14 +2,14 @@
 PORTFOLIO REFERENT DIGITAL
 # CV — Elhadji Bassirou DRAMÉ
 
-## 👨‍💻 À propos
+À propos
 Mes compétences, tant au niveau de la création qu’en communication visuelle, se sont développées lors de mon parcours professionnel.  
 Je maîtrise parfaitement **Illustrator, Photoshop, InDesign, Premiere Pro**, ainsi que le **design web** avec **IA Générative** et **WordPress**, que j’utilise avec passion.  
 Polyvalent, je sais respecter une charte graphique et prendre en compte les différentes contraintes du Web.
 
 ---
 
-## 💼 Expériences professionnelles
+##  Expériences professionnelles
 
 - **Déc. 2023 – Avr. 2024** : Rédacteur de contenu Web — *Futur Digital (France)*  
   ➤ Rédaction de contenus optimisés SEO.
@@ -64,7 +64,7 @@ Polyvalent, je sais respecter une charte graphique et prendre en compte les diff
 
 ---
 
-## 🛠️ Compétences techniques
+## 🛠 Compétences techniques
 
 - **Graphisme & Audiovisuel** : Photoshop, Illustrator, InDesign, Premiere Pro, CapCut  
 - **Web & Digital** : WordPress, SEO, IA générative (ChatGPT, Gamma, DALL·E, Video.AI…)  
@@ -73,7 +73,7 @@ Polyvalent, je sais respecter une charte graphique et prendre en compte les diff
 
 ---
 
-## 🌍 Langues
+##  Langues
 - Français : Courant  
 - Anglais : Intermédiaire  
 
