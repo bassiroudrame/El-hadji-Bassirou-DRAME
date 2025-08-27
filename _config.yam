@@ -1,1 +1,7 @@
+title: "Mon Portfolio"
+description: "Bienvenue sur mon portfolio en ligne"
+author: "Elhadji bassirou Drame
+theme: jekyll-theme-cayman
 
+# Optionnel : ajoute un logo ou une image de profil
+logo: "/assets/img/bachir.jpg"
