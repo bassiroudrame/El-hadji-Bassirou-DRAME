@@ -140,8 +140,117 @@ Augmentez votre visibilité et atteignez vos objectifs grâce à notre équipe d
 
 ### Sen Digital Communication – Des idées créatives, des solutions digitales performantes.
 
-## 🎯 Centres d’intérêt
-- Photographie, dessin, cinéma, sport  
-- Informatique générale & veille technologique  
+# Catalogue de Design Créatif : Véhicules, Présentoirs et Boutiques
+
+Bienvenue dans notre univers de design innovant.  
+Découvrez comment nous transformons véhicules, présentoirs et boutiques en expériences visuelles uniques.
+
+Notre expertise allie créativité et impact commercial pour des résultats qui captivent et convertissent.
+
+---
+
+## Sommaire
+- [Présentation de l'entreprise](#présentation-de-lentreprise)
+- [L'Art du Branding Véhiculaire](#lart-du-branding-véhiculaire)
+- [Prêt à Transformer Votre Image de Marque](#prêt-à-transformer-votre-image-de-marque)
+- [Présentoirs Innovants pour Supermarchés](#présentoirs-innovants-pour-supermarchés)
+- [Transformation de Boutiques](#transformation-de-boutiques)
+- [Conception et Impression des Supports](#conception-et-impression-des-supports)
+- [Notre Processus Créatif](#notre-processus-créatif)
+
+---
+
+## Présentation de l'entreprise
+
+### Qui nous sommes
+Nous sommes une entreprise dynamique et innovante, spécialisée dans la conception de solutions technologiques sur mesure pour nos clients.
+
+### Notre mission
+Offrir des produits et des services de qualité supérieure qui répondent parfaitement aux besoins de nos clients.
+
+### Nos valeurs
+- Engagement
+- Innovation
+- Service client
+- Responsabilité
+
+---
+
+## L'Art du Branding Véhiculaire
+
+### Conception
+Des designs sur mesure qui reflètent l'identité de votre marque.
+
+### Production
+Utilisation de matériaux de haute qualité pour une durabilité et un rendu optimal.
+
+### Installation
+Notre équipe experte assure une pose précise pour un résultat impeccable.
+
+### Quelques réalisations
+*(Galerie à intégrer ici)*
+
+---
+
+## Prêt à Transformer Votre Image de Marque
+
+- Consultation Gratuite : Discutons de votre projet et explorons ensemble les possibilités créatives.  
+- Devis Personnalisé : Recevez une proposition adaptée à vos besoins et votre budget.  
+- Garantie Satisfaction : Nous travaillons jusqu'à ce que vous soyez pleinement satisfait du résultat.  
+- Support Continu : Notre équipe reste à votre disposition pour tout ajustement ou projet futur.  
+
+---
+
+## Présentoirs Innovants pour Supermarchés
+
+### Design Ergonomique
+Nos présentoirs optimisent l'espace et facilitent l'accès aux produits, s'intégrant harmonieusement dans le magasin.
+
+### Technologie Interactive
+Incorporation d'écrans tactiles pour une expérience client engageante. Les informations produits sont accessibles d'un simple toucher.
+
+### Personnalisation
+Chaque présentoir est conçu pour mettre en valeur votre marque avec des couleurs et matériaux soigneusement sélectionnés.
+
+### Quelques présentoirs
+*(Galerie à intégrer ici)*
+
+---
+
+## Transformation de Boutiques
+
+### Analyse de l'Espace
+Étude approfondie de la configuration existante pour maximiser le potentiel du lieu.
+
+### Concept Créatif
+Développement d'un design unique qui reflète l'essence de votre marque.
+
+### Mise en Œuvre
+Coordination des travaux pour une transformation fluide et dans les délais.
+
+### Résultat Final
+Un espace qui attire, engage et convertit les clients potentiels.
+
+---
+
+## Conception et Impression des Supports
+
+- Conceptions et impressions de supports de communication  
+- Personnalisation et impression des objets publicitaires  
+- Conception et réalisation d’étiquettes et de cartes  
+
+---
+
+## Notre Processus Créatif
+
+1. **Briefing Client** : Écoute attentive des besoins et objectifs.  
+2. **Recherche & Conception** : Élaboration de concepts innovants basés sur les tendances du marché.  
+3. **Présentation & Ajustements** : Affinement du design selon les retours du client.  
+4. **Réalisation** : Mise en œuvre méticuleuse du projet avec suivi rigoureux à chaque étape.
+
+---
+
+Sen Digital Communication – Des créations qui transforment votre image de marque.
+- 
 - Recherche sur l’évolution de la technoscience  
 - Esprit de découverte et innovation  
